@@ -1,0 +1,13 @@
+.container
+{
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    background: black;
+}
+
+.video-js
+{
+    height: 70vh;
+    width: 80vw;
+}
